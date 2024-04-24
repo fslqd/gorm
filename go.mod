@@ -1,4 +1,4 @@
-module github.com/jinzhu/gorm
+module github.com/fslqd/gorm
 
 go 1.12
 
@@ -10,5 +10,4 @@ require (
 	github.com/jinzhu/now v1.0.1
 	github.com/lib/pq v1.1.1
 	github.com/mattn/go-sqlite3 v1.14.18
-	golang.org/x/crypto v0.0.0-20191205180655-e7c4368fe9dd // indirect
 )
